@@ -121,6 +121,7 @@ You are able to find `Final Job Status` completed if the job goes well.
 Final Result
 
 ![final-result](asset/img/final-result.png)
+![final-result-portal](asset/img/final-result-portal.png)
 
 
 ## Data Processing with PyArrow
